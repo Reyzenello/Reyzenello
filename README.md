@@ -34,7 +34,7 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 
 ## 🏆 Achievements
 - Working on top multi-national consulting company by leveraging generative AI technologies
-- Contributing to [Open Source Project](https://github.com/Agora).
+- Contributing on how to use last cutting-edge technologies (open-source).
 - Implementing automation tools where 10+ millions users are using it
 
 
