@@ -21,8 +21,9 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 
 
 ## 💻 Projects
-- [**Project Name**](https://github.com/yourusername/projectname) - A brief description of the project. ![Repo stars](https://img.shields.io/github/stars/yourusername/projectname)
-- [**Project Name**](https://github.com/yourusername/projectname) - A brief description of the project. ![Repo stars](https://img.shields.io/github/stars/yourusername/projectname)
+- [**Project Name**](https://github.com/Reyzenello/PromptEngineering) - Prompt Engineering Framework . ![Repo stars](https://img.shields.io/github/stars/Reyzenello/PromptEngineering)
+
+
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -43,7 +44,7 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Reyzenello&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reyzenello&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-bruzzese/)
