@@ -1,14 +1,24 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Reyzenello!
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile views](https://komarev.com/ghpvc/?username=Reyzenello)
 
 ## 🚀 About Me
-I am a passionate AI Researcher specializing in Natural Language Processing and Computer Vision. With a background in machine learning and data science, I love building innovative AI solutions that make a difference.
+I'm just a curious guys that like to test and play around with AI and last cutting-edge technologies and provide values. 
 
-## 🏅 Certifications
-- ![Certification Badge](https://img.shields.io/badge/Certification-Coursera-blue) Deep Learning Specialization - Coursera
-- ![Certification Badge](https://img.shields.io/badge/Certification-IBM-blue) IBM AI Engineering Professional Certificate
-- ![Certification Badge](https://img.shields.io/badge/Certification-Udacity-blue) Udacity AI Nanodegree
+## 🏅 Certifications during the last 2 years:
+- Professional Machine Learning Engineer - Google
+-  Google Cloud Certified Professional Cloud Architect - Google
+- Microsoft Certified: Azure Fundamentals - Microsoft
+-  Machine Learning Engineering for Production (MLOps) Specialization - DeepLearning.AI
+-  TensorFlow Developer Professional Specialization - DeepLearning.AI
+-  Course: Red Teaming LLM Applications - DeepLearning.AI
+-  LLMOps - DeepLearning.AI
+-  AWS Certified Solution Architect - Amazon Web Services (AWS)
+-  AWS Certified Cloud Practitioner 2023 - Amazon Web Services (AWS)
+-  Splunk Core Certified Power User - Splunk
+-  Deep Learning Specialization - DeepLearning.AI
+
+
 
 ## 💻 Projects
 - [**Project Name**](https://github.com/yourusername/projectname) - A brief description of the project. ![Repo stars](https://img.shields.io/github/stars/yourusername/projectname)
@@ -22,18 +32,18 @@ I am a passionate AI Researcher specializing in Natural Language Processing and 
 ![NLP](https://img.shields.io/badge/NLP-CC342D?logo=nlp&logoColor=white)
 
 ## 🏆 Achievements
-- Published a paper on AI in [Journal Name](#).
-- Speaker at [Conference Name](#).
-- Contributed to [Open Source Project](https://github.com/open-source-project).
+- Working on top multi-national consulting company by leveraging generative AI technologies
+- Contributing to [Open Source Project](https://github.com/Agora).
+- Implementing automation tools where 10+ millions users are using it
+
 
 ## 📫 How to Reach Me
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Email: [your.email@example.com](mailto:riccardobruzzese98@gmail.com)
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/riccardo-bruzzese/)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Reyzenello&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-bruzzese/)
