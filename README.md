@@ -21,7 +21,7 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 
 
 ## 💻 Projects
-- [**Project Name**](https://github.com/Reyzenello/PromptEngineering) - Prompt Engineering Framework . ![Repo stars](https://img.shields.io/github/stars/Reyzenello/PromptEngineering)
+- [**Prompt Engineering**](https://github.com/Reyzenello/PromptEngineering) - Prompt Engineering Framework . ![Repo stars](https://img.shields.io/github/stars/Reyzenello/PromptEngineering)
 - You can take a look at the Testing-out repositories if you want to test the latest cutting-edge AI tools. ;) 
 
 
