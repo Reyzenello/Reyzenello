@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm just a curious guys that like to test and play around with AI and last cutting-edge technologies and provide values. 
 
-## 🏅 Certifications during the last 2 years:
+## 🏅 Certifications achieved during the last 2 years:
 - Professional Machine Learning Engineer - Google
 -  Google Cloud Certified Professional Cloud Architect - Google
 - Microsoft Certified: Azure Fundamentals - Microsoft
@@ -22,7 +22,7 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 
 ## 💻 Projects
 - [**Project Name**](https://github.com/Reyzenello/PromptEngineering) - Prompt Engineering Framework . ![Repo stars](https://img.shields.io/github/stars/Reyzenello/PromptEngineering)
-
+- You can take a look at the Testing-out repositories if you want to test the latest cutting-edge AI tools. ;) 
 
 
 ## 🛠️ Skills
@@ -39,8 +39,7 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 
 
 ## 📫 How to Reach Me
-- Email: [your.email@example.com](mailto:riccardobruzzese98@gmail.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/riccardo-bruzzese/)
+- LinkedIn: [My LinkedIn profile ;)](https://www.linkedin.com/in/riccardo-bruzzese/)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Reyzenello&show_icons=true&theme=radical)
