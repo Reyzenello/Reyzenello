@@ -35,7 +35,14 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 ## 🏆 Achievements
 - Working on top multi-national consulting company by leveraging generative AI technologies
 - Contributing on how to use last cutting-edge technologies (open-source).
-- Implementing automation tools where 10+ millions users are using it
+- Worked on multiple end-to-end projects, exceeding delivery targets and optimizing resource allocation to save costs.
+- Spearheaded AI-powered security systems, reducing incident resolution times by 75%.
+- Enhanced threat detection capabilities from 49% to 70% in 6 months, significantly improving security operations for clients.
+- Implemented AI solutions for monitoring over 5 million users, boosting operational efficiency and security.
+- Reduced detection and response times from 80 hours to 20 hours using open-source models.
+- Integrated AI agents into workflows, developing solutions like RAG and refining AI solutions.
+- Conducted PoCs in production and critical environments. 
+- Demonstrated extensive MLOps knowledge on various SIEM platforms
 
 
 ## 📫 How to Reach Me
