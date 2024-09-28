@@ -23,8 +23,17 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 ## 💻 Projects
 - [**Prompt Engineering**](https://github.com/Reyzenello/PromptEngineering) - Prompt Engineering Framework . ![Repo stars](https://img.shields.io/github/stars/Reyzenello/PromptEngineering)
 - You can take a look at the Testing-out repositories if you want to test the latest cutting-edge AI tools. ;) 
-- If you're new to the world of AI and want to grasp the fundamentals of the latest groundbreaking architectures, then my project "From 0 to Hero" is perfect for you! As a Technical Lead and Principal AI Architect, I'll take you through an end-to-end journey, guiding you step-by-step through the latest AI tools, LLMs, and more. This project is designed to help you transition from a beginner to a confident expert, equipping you with the skills to leverage cutting-edge technologies in AI. Join me and start your transformation today! (https://www.canva.com/design/DAGSDwlM3xc/KA2CebQT5XfknBn5c4GgsQ/edit?utm_content=DAGSDwlM3xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- From 0 to Hero: Roadmap for beginners and experts - (https://www.canva.com/design/DAGSDwlM3xc/KA2CebQT5XfknBn5c4GgsQ/edit?utm_content=DAGSDwlM3xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton):
+comprehensive project designed to transform beginners into confident AI professionals. Here’s what you’ll get:
 
+  - Starting Points: Get access to curated inputs, courses, critical thinking tools, and resources tailored to kickstart your AI journey.
+  - Theory Deep Dive: Explore the full pipeline of Large Language Models (LLMs), delve into Reinforcement Learning, understand the Bellman Equation, RL policy gradients, and much more. We cover all the foundational theories you need to know.
+  - Hands-On Practice: Engage with interactive demos, complete practical homework assignments, and learn how to utilize the latest AI frameworks through real-world applications.
+  - AI News Hub: Stay up-to-date with the latest trends and breakthroughs in the AI world. Never miss an important update in this fast-evolving field.
+  - FAQ: Find answers to common questions, troubleshoot your learning challenges, and get personalized guidance. For any questions feel free to reach me out on LinkedIn ;)
+
+
+ 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
