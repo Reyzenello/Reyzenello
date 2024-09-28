@@ -23,7 +23,7 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 ## 💻 Projects
 - [**Prompt Engineering**](https://github.com/Reyzenello/PromptEngineering) - Prompt Engineering Framework . ![Repo stars](https://img.shields.io/github/stars/Reyzenello/PromptEngineering)
 - You can take a look at the Testing-out repositories if you want to test the latest cutting-edge AI tools. ;) 
-
+- If you're new to the world of AI and want to grasp the fundamentals of the latest groundbreaking architectures, then my project "From 0 to Hero" is perfect for you! As a Technical Lead and Principal AI Architect, I'll take you through an end-to-end journey, guiding you step-by-step through the latest AI tools, LLMs, and more. This project is designed to help you transition from a beginner to a confident expert, equipping you with the skills to leverage cutting-edge technologies in AI. Join me and start your transformation today! (https://www.canva.com/design/DAGSDwlM3xc/KA2CebQT5XfknBn5c4GgsQ/edit?utm_content=DAGSDwlM3xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
