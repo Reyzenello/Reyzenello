@@ -33,7 +33,7 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 ![NLP](https://img.shields.io/badge/NLP-CC342D?logo=nlp&logoColor=white)
 
 ## 🏆 Achievements
-- Leveraged generative AI technologies to drive innovation in a top multinational consulting company.
+- Leveraged generative AI technologies to drive innovation in a top multinational consulting company on 2024 (Nb.2) - https://time.com/collection/worlds-best-companies-2024/.
 - Contributed to the adoption of cutting-edge open-source technologies across projects.
 - Exceeded delivery targets in multiple end-to-end projects, optimizing resources and reducing costs.
 - Spearheaded AI-powered security systems, reducing incident resolution times by 75%.
@@ -46,6 +46,7 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 - Delivered workshops on Prompt Engineering, LLM building, and model fine-tuning, mentoring teams on AI technologies.
 - Collaborated with global AI leaders and participated in high-profile workshops, including Accenture Quantum Security.
 - Implemented automated AI agents, enhancing security through advanced threat categorization and incident triage.
+- Supported open-source communities on LLM by suggesting the usage of the last enhancements released on Arxiv (ex.Eureka Labs, lucidrains, Agora).
 
 
 ## 📫 How to Reach Me
