@@ -8,7 +8,7 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 ## 🏅 Certifications achieved during the last 2 years:
 - Professional Machine Learning Engineer - Google
 -  Google Cloud Certified Professional Cloud Architect - Google
-- Microsoft Certified: Azure Fundamentals - Microsoft
+-  Microsoft Certified: Azure Fundamentals - Microsoft
 -  Machine Learning Engineering for Production (MLOps) Specialization - DeepLearning.AI
 -  TensorFlow Developer Professional Specialization - DeepLearning.AI
 -  Course: Red Teaming LLM Applications - DeepLearning.AI
@@ -33,16 +33,19 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 ![NLP](https://img.shields.io/badge/NLP-CC342D?logo=nlp&logoColor=white)
 
 ## 🏆 Achievements
-- Working on top multi-national consulting company by leveraging generative AI technologies
-- Contributing on how to use last cutting-edge technologies (open-source).
-- Worked on multiple end-to-end projects, exceeding delivery targets and optimizing resource allocation to save costs.
+- Leveraged generative AI technologies to drive innovation in a top multinational consulting company.
+- Contributed to the adoption of cutting-edge open-source technologies across projects.
+- Exceeded delivery targets in multiple end-to-end projects, optimizing resources and reducing costs.
 - Spearheaded AI-powered security systems, reducing incident resolution times by 75%.
-- Enhanced threat detection capabilities from 49% to 70% in 6 months, significantly improving security operations for clients.
-- Implemented AI solutions for monitoring over 5 million users, boosting operational efficiency and security.
-- Reduced detection and response times from 80 hours to 20 hours using open-source models.
-- Integrated AI agents into workflows, developing solutions like RAG and refining AI solutions.
-- Conducted PoCs in production and critical environments. 
-- Demonstrated extensive MLOps knowledge on various SIEM platforms
+- Enhanced threat detection from 49% to 70% within six months, improving client security operations.
+- Implemented AI solutions to monitor over 5 million users, enhancing efficiency and security.
+- Reduced detection and response times from 80 to 20 hours using open-source AI models.
+- Developed and integrated multimodal search systems and AI workflows, including RAG and advanced AI agents.
+- Conducted PoCs in critical environments, demonstrating advanced MLOps on SIEM platforms like Splunk and ELK.
+- Played a key role in securing multi-year contract renewals by showcasing leadership and strategic impact.
+- Delivered workshops on Prompt Engineering, LLM building, and model fine-tuning, mentoring teams on AI technologies.
+- Collaborated with global AI leaders and participated in high-profile workshops, including Accenture Quantum Security.
+- Implemented automated AI agents, enhancing security through advanced threat categorization and incident triage.
 
 
 ## 📫 How to Reach Me
