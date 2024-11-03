@@ -17,6 +17,7 @@ I'm just a curious guys that like to test and play around with AI and last cutti
 -  AWS Certified Cloud Practitioner 2023 - Amazon Web Services (AWS)
 -  Splunk Core Certified Power User - Splunk
 -  Deep Learning Specialization - DeepLearning.AI
+-  Deep Learning Specialization on Generative AI focused on Software Engineer - DeepLearning.AI
 
 
 
