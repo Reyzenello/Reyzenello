@@ -5,19 +5,25 @@
 ## 🚀 About Me
 I'm just a curious guys that like to test and play around with AI and last cutting-edge technologies and provide values. 
 
-## 🏅 Certifications achieved during the last 2 years:
-- Professional Machine Learning Engineer - Google
--  Google Cloud Certified Professional Cloud Architect - Google
--  Microsoft Certified: Azure Fundamentals - Microsoft
--  Machine Learning Engineering for Production (MLOps) Specialization - DeepLearning.AI
--  TensorFlow Developer Professional Specialization - DeepLearning.AI
--  Course: Red Teaming LLM Applications - DeepLearning.AI
--  LLMOps - DeepLearning.AI
--  AWS Certified Solution Architect - Amazon Web Services (AWS)
--  AWS Certified Cloud Practitioner 2023 - Amazon Web Services (AWS)
--  Splunk Core Certified Power User - Splunk
--  Deep Learning Specialization - DeepLearning.AI
--  Deep Learning Specialization on Generative AI focused on Software Engineer - DeepLearning.AI
+## 🏅 Certifications achieved during the last 3 years:
+- Google Project Management: Professional Certificate (2025)
+- IBM AI Product Manager Professional Certificate (2025)
+- AI Product Management Specialization (2025)
+- Hands-on quantum error correction with Google Quantum AI (2025)
+- Generative AI for Software Development Professional Certificate (end of 2024)
+- DeepLearning.AI TensorFlow Developer Professional Certificate (2024)
+- Professional Machine Learning Engineer - Google (2024)
+-  Google Cloud Certified Professional Cloud Architect - Google (2024)
+-  Microsoft Certified: Azure Fundamentals - Microsoft (2024)
+-  Machine Learning Engineering for Production (MLOps) Specialization - DeepLearning.AI (2024)
+-  TensorFlow Developer Professional Specialization - DeepLearning.AI (2024)
+-  Course: Red Teaming LLM Applications - DeepLearning.AI (2023)
+-  LLMOps - DeepLearning.AI (2023)
+-  AWS Certified Solution Architect - Amazon Web Services (AWS) (2023)
+-  AWS Certified Cloud Practitioner - Amazon Web Services (AWS) (2023)
+-  Splunk Core Certified Power User - Splunk (2022)
+-  Deep Learning Specialization - DeepLearning.AI (2019)
+-  Machine Learning Specialization - Standford (2019)
 
 
 
