@@ -6,6 +6,7 @@
 I'm just a curious guys that like to test and play around with AI and last cutting-edge technologies and provide values. 
 
 ## 🏅 Certifications achieved during the last 3 years:
+- AWS Machine Learning: Speciality (2025)
 - DP700: Fabric Data Engineer & DataBrick Fundamentals (2025)
 - Google Project Management: Professional Certificate (2025)
 - IBM AI Product Manager Professional Certificate (2025)
